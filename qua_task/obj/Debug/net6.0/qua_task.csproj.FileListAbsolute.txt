@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\bin\Debug\net6.0\qua_task.exe
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\bin\Debug\net6.0\qua_task.deps.json
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\bin\Debug\net6.0\qua_task.runtimeconfig.json
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\bin\Debug\net6.0\qua_task.dll
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\bin\Debug\net6.0\qua_task.pdb
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.dll
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\refint\qua_task.dll
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.pdb
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\qua_task.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Документы\fin_work\qua_task\obj\Debug\net6.0\ref\qua_task.dll
